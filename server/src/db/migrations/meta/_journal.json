@@ -15,6 +15,13 @@
       "when": 1752325849101,
       "tag": "0001_brainy_ronan",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752438846995,
+      "tag": "0002_left_moira_mactaggert",
+      "breakpoints": true
     }
   ]
 }
